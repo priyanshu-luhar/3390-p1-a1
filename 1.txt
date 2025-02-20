@@ -1,0 +1,2109 @@
+[Priyanshu Luhar] 00:48:49
+Hello, everyone. I don't know who's watching this most probably me or Professor Royer, I guess.
+
+[Priyanshu Luhar] 00:49:02
+The purpose of this meeting by just me.
+
+[Priyanshu Luhar] 00:49:08
+Is I'm going to start on my project one for CMPS 3390 application development for the semester of spring 2025.
+
+[Priyanshu Luhar] 00:49:20
+My name is Priyan Shaluhar. And student ID is 201020617.
+
+[Priyanshu Luhar] 00:49:29
+I'll start by first sharing my screens.
+
+[Priyanshu Luhar] 00:49:36
+So just to give a little tour of my setup is that I have one screen over here, another screen over here.
+
+[Priyanshu Luhar] 00:49:45
+And this meeting is being recorded in two different devices. Because… The video is being recorded.
+
+[Priyanshu Luhar] 00:49:53
+On another laptop. So that's that.
+
+[Priyanshu Luhar] 00:49:59
+Now, since.
+
+[Priyanshu Luhar] 00:50:04
+I'm going to be sharing my screen. I would rather not share any messages.
+
+[Priyanshu Luhar] 00:50:08
+At the moment. So I've set that to do not disturb And I have not done any work.
+
+[Priyanshu Luhar] 00:50:17
+On the project till now. And my presentation is at 9 o'clock today.
+
+[Priyanshu Luhar] 00:50:23
+And I'm still at the university. If anyone cannot tell, this is science three.
+
+[Priyanshu Luhar] 00:50:29
+I work as a researcher. Here so i guess i have access to building And I'm going to try and get some work done and get the meeting done.
+
+[Priyanshu Luhar] 00:50:42
+In the morning and probably head home. So.
+
+[Priyanshu Luhar] 00:50:47
+Sure. Not lying about the time. This is it.
+
+[Priyanshu Luhar] 00:50:54
+I'm not. Doing anything.
+
+[Priyanshu Luhar] 00:51:00
+Time, someone time pure device. Okay, which is correct over here.
+
+[Priyanshu Luhar] 00:51:07
+So now what we do. Is that I'm going to start looking at the PDF.
+
+[Priyanshu Luhar] 00:51:14
+This project and i'm gonna have two versions of the PDF.
+
+[Priyanshu Luhar] 00:51:20
+Well, first one is I'm going to take it down. Let me make it full screen over here.
+
+[Priyanshu Luhar] 00:51:27
+So that if I have any other research tabs we'll go over here And we'll open another Chrome window.
+
+[Priyanshu Luhar] 00:51:39
+Over here for our actual work. We'll go to our GitHub.
+
+[Priyanshu Luhar] 00:51:47
+Because I know we're going to have to make a repository anyways So… I thought this would be the best way of documenting what i'm saying.
+
+[Priyanshu Luhar] 00:52:01
+In the best way.
+
+[Priyanshu Luhar] 00:52:05
+So let's start. I'll start reading back.
+
+[Priyanshu Luhar] 00:52:10
+I'll start by reading through A little bit before we begin logging your work.
+
+[Priyanshu Luhar] 00:52:16
+I guess we're going to need an Excel sheet. Measure twice.
+
+[Priyanshu Luhar] 00:52:23
+Cut once. If only life was that simple.
+
+[Priyanshu Luhar] 00:52:29
+Research at least one GUI based application one operating systems do i have only I'm going to use VM or then it frameworks.
+
+[Priyanshu Luhar] 00:52:42
+Okay, for most of these things i'm thinking that he doesn't need actual answers to these things.
+
+[Priyanshu Luhar] 00:52:52
+I already know a lot of these things. I've never worked with Java.
+
+[Priyanshu Luhar] 00:52:57
+In much detail. I just made a single framed application using android a couple of semesters ago for a class.
+
+[Priyanshu Luhar] 00:53:06
+And I did the lab along with him. For the first lap, not the other laps.
+
+[Priyanshu Luhar] 00:53:12
+Because I can go to the lab. Now, as far as I'm looking at it.
+
+[Priyanshu Luhar] 00:53:17
+These are just very ground level questions about developing and since I already have IntelliJ, I'm going to stick with that setup and prototype.
+
+[Priyanshu Luhar] 00:53:29
+Okay, now that you're researching it. Application.
+
+[Priyanshu Luhar] 00:53:34
+There you go. Okay.
+
+[Priyanshu Luhar] 00:53:40
+Get up and help.
+
+[Priyanshu Luhar] 00:53:45
+Gy with the hello world label. Okay.
+
+[Priyanshu Luhar] 00:53:58
+I think I'm going to have something like this. Javaswing app and IntelliJ.
+
+[Priyanshu Luhar] 00:54:05
+I'm not touching Android Studio, at least not for right now. The IDEA support kit version control out of the box.
+
+[Priyanshu Luhar] 00:54:13
+Yeah. Are there any special configuration steps you need to do?
+
+[Priyanshu Luhar] 00:54:18
+Environmental variables. I don't think so. Maybe we'll make a readme file for these things what are your different project types available Okay, no, I don't care.
+
+[Priyanshu Luhar] 00:54:34
+Okay they need a list of VMs, this, this, this.
+
+[Priyanshu Luhar] 00:54:42
+Meanwhile, you must install now before you can use npm Any potential bloggers or challenges you came across okay you can create separate spreadsheets for this okay This is going to be a little bit hard because I'm already at a certain point where I can run an application and I haven't
+
+[Priyanshu Luhar] 00:54:59
+Paid much attention to what things I've downloaded but We'll tackle this once I have the intelligent setup.
+
+[Priyanshu Luhar] 00:55:08
+Develop your apps okay now we're getting to some sort of concrete, please.
+
+[Priyanshu Luhar] 00:55:16
+I'd like to zoom in a little bit. Okay, yeah. So… This is part one.
+
+[Priyanshu Luhar] 00:55:26
+By the way, this is a… horrible PDF because When you select it selects the characters individually rather than the entire string.
+
+[Priyanshu Luhar] 00:55:39
+But that's none of our concern. For the first step, let's keep it simple hello and complete the follow create your first view the view will contain one button Listen to this.
+
+[Priyanshu Luhar] 00:55:52
+New fusion as models selected. Okay.
+
+[Priyanshu Luhar] 00:55:57
+The new view test model will have a single test label that says hello and an OK button and the OK button is clicked the application should go back to the first view.
+
+[Priyanshu Luhar] 00:56:06
+Okay, makes sense. It's just one loop.
+
+[Priyanshu Luhar] 00:56:11
+More familiar with the environment choose one of the following options to build.
+
+[Priyanshu Luhar] 00:56:15
+Okay. First, let's finish this. Well, my target time for this would be… Let's try to get this done within two hours.
+
+[Priyanshu Luhar] 00:56:24
+If I can. So… Let's go over here.
+
+[Priyanshu Luhar] 00:56:32
+Almost clock. Let's start a stopwatch.
+
+[Priyanshu Luhar] 00:56:40
+I started the stopwatch action. 1056. We'll just let this run in the background.
+
+[Priyanshu Luhar] 00:56:47
+So as far as I can tell, I'm going to need…
+
+[Priyanshu Luhar] 00:56:56
+Needed. Okay, I'm going to need
+
+[Priyanshu Luhar] 00:57:06
+Film, E, four. Documentations.
+
+[Priyanshu Luhar] 00:57:12
+Get a repo.
+
+[Priyanshu Luhar] 00:57:18
+And…
+
+[Priyanshu Luhar] 00:57:23
+Just those two would be it, at least for now. Let's start with those two and have them set up just in case if we have anything Coming up.
+
+[Priyanshu Luhar] 00:57:38
+Okay, so… he mentioned a… Okay, something like this.
+
+[Priyanshu Luhar] 00:57:47
+Sound number. Resource.
+
+[Priyanshu Luhar] 00:57:55
+Take your way.
+
+[Priyanshu Luhar] 00:57:59
+Time. Okay, I'm going to change this to times started.
+
+[Priyanshu Luhar] 00:58:08
+And… I'll just make this into a formula so that I don't have to calculate anything.
+
+[Priyanshu Luhar] 00:58:17
+Time started, I can just insert a timestamp. Oh, let's also make this slightly bigger.
+
+[Priyanshu Luhar] 00:58:25
+Let's make this. Second one.
+
+[Priyanshu Luhar] 00:58:33
+Okay. I'm Gerald.
+
+[Priyanshu Luhar] 00:58:37
+I don't know what happened. Yes. Okay.
+
+[Priyanshu Luhar] 00:58:44
+One resource. We'll use it.
+
+[Priyanshu Luhar] 00:58:49
+I'm trying to…
+
+[Priyanshu Luhar] 00:58:56
+Let's just convert these into times that.
+
+[Priyanshu Luhar] 00:59:12
+Day to time, always choose this. The last one. Yeah.
+
+[Priyanshu Luhar] 00:59:18
+Okay. So.
+
+[Priyanshu Luhar] 00:59:22
+Now that we're ready. Resource takeaway time study and time.
+
+[Priyanshu Luhar] 00:59:29
+Take it. Okay.
+
+[Priyanshu Luhar] 00:59:35
+This is going to be a different time format because I'm amazed.
+
+[Priyanshu Luhar] 00:59:48
+Okay. Yeah, this would be there because the difference between two timestamps is not going to It's not going to need a date, at least because we have things to submit today.
+
+[Priyanshu Luhar] 01:00:01
+So now that we have this ready. This is our
+
+[Priyanshu Luhar] 01:00:11
+March. Log.
+
+[Priyanshu Luhar] 01:00:15
+The next was about
+
+[Priyanshu Luhar] 01:00:24
+Let's type.
+
+[Priyanshu Luhar] 01:00:28
+Set up. Okay, put two things set up.
+
+[Priyanshu Luhar] 01:00:37
+Copy this.
+
+[Priyanshu Luhar] 01:00:50
+Just a little bit, take away. I don't know what resource.
+
+[Priyanshu Luhar] 01:00:57
+Delete, delete. Oh, no. Oh, gee.
+
+[Priyanshu Luhar] 01:01:06
+Okay, I guess you could. Intermediate.
+
+[Priyanshu Luhar] 01:01:14
+Let's cut this. Insert, cut cells.
+
+[Priyanshu Luhar] 01:01:18
+Okay, now this makes more sense. Pre-source purpose chronology.
+
+[Priyanshu Luhar] 01:01:32
+Now, since we had this. This is going to be the later part. My first task would be to figure out what are the things that I need for have one. And since we've already read it.
+
+[Priyanshu Luhar] 01:01:46
+We should start with something. Like keynote.
+
+[Priyanshu Luhar] 01:01:52
+To design the application. Let's just start with the new application.
+
+[Priyanshu Luhar] 01:01:58
+Okay, come under here, delete. I'm gonna need… Shape.
+
+[Priyanshu Luhar] 01:02:08
+I want my application to be
+
+[Priyanshu Luhar] 01:02:15
+Somewhat rectangular because I guess this is for the desktop I just need some text.
+
+[Priyanshu Luhar] 01:02:26
+Who would be white.
+
+[Priyanshu Luhar] 01:02:48
+So I just want the title to be hello.
+
+[Priyanshu Luhar] 01:03:01
+Exercise, three. Maybe around… 70 and I don't like this.
+
+[Priyanshu Luhar] 01:03:09
+Let's just go with Consolas.
+
+[Priyanshu Luhar] 01:03:14
+Okay, we don't have consoleas. Ms. Courier will do.
+
+[Priyanshu Luhar] 01:03:22
+B. 75.
+
+[Priyanshu Luhar] 01:03:25
+Let's just change it to 100. Okay.
+
+[Priyanshu Luhar] 01:03:33
+I just want one. Hello. This will be a button. So let's give this.
+
+[Priyanshu Luhar] 01:03:42
+Let's go to supporter. If it's a button.
+
+[Priyanshu Luhar] 01:03:48
+It will have a red border. This is not the actual style I want things in.
+
+[Priyanshu Luhar] 01:03:53
+I'm just trying to… choose.
+
+[Priyanshu Luhar] 01:03:57
+Layout for me to serve. Okay. And… In the end, maybe if i Okay, I'd like to include My name.
+
+[Priyanshu Luhar] 01:04:22
+Let me…
+
+[Priyanshu Luhar] 01:04:36
+I don't want any border.
+
+[Priyanshu Luhar] 01:04:43
+Let's reuse the text flag.
+
+[Priyanshu Luhar] 01:04:53
+Okay, now I have an issue with this. Have something like this. Yeah.
+
+[Priyanshu Luhar] 01:05:05
+Okay. Okay, so this is what I want. This is a button.
+
+[Priyanshu Luhar] 01:05:11
+Text will be.
+
+[Priyanshu Luhar] 01:05:17
+E, I. Oh, yeah. I'm done.
+
+[Priyanshu Luhar] 01:05:24
+Okay, view one. Now, view 2 will show a message.
+
+[Priyanshu Luhar] 01:05:34
+It says…
+
+[Priyanshu Luhar] 01:05:48
+This is not a button show. This will just be And alert.
+
+[Priyanshu Luhar] 01:05:58
+It should have… And okay.
+
+[Priyanshu Luhar] 01:06:06
+This will be
+
+[Priyanshu Luhar] 01:06:12
+Okay, let's do something like this. Insert text.
+
+[Priyanshu Luhar] 01:06:23
+Okay. Be.
+
+[Priyanshu Luhar] 01:06:41
+Okay. So.
+
+[Priyanshu Luhar] 01:06:46
+Let's make this like this.
+
+[Priyanshu Luhar] 01:06:51
+I'm on the border to be Nine.
+
+[Priyanshu Luhar] 01:06:59
+Okay. Once this is clicked.
+
+[Priyanshu Luhar] 01:07:07
+This would be…
+
+[Priyanshu Luhar] 01:07:17
+Okay, just a little above, a little to the side.
+
+[Priyanshu Luhar] 01:07:32
+You too. Okay.
+
+[Priyanshu Luhar] 01:07:36
+And it will have the title and the closing buttons up here, but we don't need to worry about it.
+
+[Priyanshu Luhar] 01:07:43
+Because the window is obviously going to be created that way.
+
+[Priyanshu Luhar] 01:07:46
+And it says specified to not specified do with that.
+
+[Priyanshu Luhar] 01:07:50
+At least that's how it works in OpenGL. Let's get started. Well, this is a conceptual design so Just save it somewhere.
+
+[Priyanshu Luhar] 01:08:02
+So I am going to do this, I'm gonna Let's make this.
+
+[Priyanshu Luhar] 01:08:10
+Project one tomorrow. Okay.
+
+[Priyanshu Luhar] 01:08:19
+Gladys. Titled.
+
+[Priyanshu Luhar] 01:08:29
+Let's make it completely done.
+
+[Priyanshu Luhar] 01:08:34
+Okay. I want to have something over here.
+
+[Priyanshu Luhar] 01:08:42
+Okay, let's do this. We'll also save this because something might happen.
+
+[Priyanshu Luhar] 01:08:53
+Log. Okay, since we're here, we'll start making the application. I already have something like this.
+
+[Priyanshu Luhar] 01:09:02
+And so I'm going to use the name CMPS 3390. Or just between and zero by 29, 0.
+
+[Priyanshu Luhar] 01:09:15
+P1, A1.
+
+[Priyanshu Luhar] 01:09:23
+Okay, let's start this. I'll just keep it public.
+
+[Priyanshu Luhar] 01:09:28
+Read me, no license, no. Create repository.
+
+[Priyanshu Luhar] 01:09:38
+Httv. Okay, I'm not going to have to do this because I guess IntelliJ can connect to it directly.
+
+[Priyanshu Luhar] 01:09:47
+So I don't need to. Since I'm doing this, I'm going to move this to the side over here.
+
+[Priyanshu Luhar] 01:09:56
+Now, let's start with At least let me start with my IDE.
+
+[Priyanshu Luhar] 01:10:08
+Intelligent. Well, this was So let's make a new file.
+
+[Priyanshu Luhar] 01:10:14
+New project. Java untitled.
+
+[Priyanshu Luhar] 01:10:20
+Let's just say. This will not be located over here.
+
+[Priyanshu Luhar] 01:10:31
+Here.
+
+[Priyanshu Luhar] 01:10:36
+At one. Let's live with something else.
+
+[Priyanshu Luhar] 01:10:43
+Just name it hello.
+
+[Priyanshu Luhar] 01:10:53
+Hello. It doesn't have a directory like that, we'll make one.
+
+[Priyanshu Luhar] 01:11:07
+Okay. Create git repository here.
+
+[Priyanshu Luhar] 01:11:12
+And TJ, yeah, we'll stick to this. I don't want to change any of these advanced settings.
+
+[Priyanshu Luhar] 01:11:19
+Okay, let's start. Also, the new project has already been made.
+
+[Priyanshu Luhar] 01:11:29
+Source modules. Sdks, I don't want any of these for now.
+
+[Priyanshu Luhar] 01:11:36
+Project. Sdk. Okay.
+
+[Priyanshu Luhar] 01:11:44
+I guess I should start. Working on making the applications show the first view Since I already have A.
+
+[Priyanshu Luhar] 01:12:00
+Perfect reference that being the lab for could use that.
+
+[Priyanshu Luhar] 01:12:07
+Which might be a lot. Helpful as it reduces my time by a lot.
+
+[Priyanshu Luhar] 01:12:12
+I could just look at the particular file formatting or how the directory structure is and what classes and everything I need.
+
+[Priyanshu Luhar] 01:12:24
+But… Since the target of this project is to just get things going on.
+
+[Priyanshu Luhar] 01:12:32
+I'll start with the first. Project that I had.
+
+[Priyanshu Luhar] 01:12:38
+Not a project, but something similar. The first lab that we actually did.
+
+[Priyanshu Luhar] 01:12:43
+Like this. Sarsi.
+
+[Priyanshu Luhar] 01:12:47
+Change.java, Tuesday.java. And since I built something like this, I'm going to have a public class.
+
+[Priyanshu Luhar] 01:12:57
+Okay.
+
+[Priyanshu Luhar] 01:13:07
+Hello.
+
+[Priyanshu Luhar] 01:13:11
+New module. Java.
+
+[Priyanshu Luhar] 01:13:15
+And hello. Cancel that.
+
+[Priyanshu Luhar] 01:13:23
+Content through hmm. Recent files.
+
+[Priyanshu Luhar] 01:13:30
+How do I add new file? New shower class.
+
+[Priyanshu Luhar] 01:13:36
+And that's it. Last name is hello.
+
+[Priyanshu Luhar] 01:13:47
+Add to the GitHub.
+
+[Priyanshu Luhar] 01:13:52
+We'll try committing it. Every time we have something funny.
+
+[Priyanshu Luhar] 01:13:58
+Okay. It needs a constructor, I guess, for the first time. So public static void main.
+
+[Priyanshu Luhar] 01:14:06
+Publix. Got it. Main.
+
+[Priyanshu Luhar] 01:14:14
+String arguments, yeah.
+
+[Priyanshu Luhar] 01:14:25
+Dotted line. I don't want anything running on the console side.
+
+[Priyanshu Luhar] 01:14:32
+But I at least have a function. Now I wanted to create a view plus.
+
+[Priyanshu Luhar] 01:14:45
+So let's get that figured out. Hmm.
+
+[Priyanshu Luhar] 01:14:53
+Making a view. Let's look at a YouTube video, shall we?
+
+[Priyanshu Luhar] 01:15:04
+Okay. No.
+
+[Priyanshu Luhar] 01:15:10
+Java. They should have something similar to that.
+
+[Priyanshu Luhar] 01:15:18
+Nonage. This might be better.
+
+[Priyanshu Luhar] 01:15:23
+I'll accept all the figures.
+
+[Priyanshu Luhar] 01:15:29
+Since I'm using this. I might as well source it.
+
+[Priyanshu Luhar] 01:15:38
+Resources, Command V. I don't seem to be out of a comment.
+
+[Priyanshu Luhar] 01:15:47
+Take away. I haven't gotten any time started.
+
+[Priyanshu Luhar] 01:15:54
+Okay. Times 10.
+
+[Priyanshu Luhar] 01:16:00
+Stand.
+
+[Priyanshu Luhar] 01:16:05
+And word which one can I take? Thursday, this, this, this.
+
+[Priyanshu Luhar] 01:16:13
+15. I just want to tell that.
+
+[Priyanshu Luhar] 01:16:25
+There should be a way to get that in Excel.
+
+[Priyanshu Luhar] 01:16:32
+Okay. Let's try that. Come on, shift.
+
+[Priyanshu Luhar] 01:16:40
+Oh, okay. So it only takes that.
+
+[Priyanshu Luhar] 01:16:48
+Date and time.
+
+[Priyanshu Luhar] 01:16:54
+And time. Control plus this and space.
+
+[Priyanshu Luhar] 01:17:01
+Okay. So this is control posters.
+
+[Priyanshu Luhar] 01:17:05
+Please.
+
+[Priyanshu Luhar] 01:17:10
+No, that didn't work. Control plus semicolon then space.
+
+[Priyanshu Luhar] 01:17:16
+And then this.
+
+[Priyanshu Luhar] 01:17:21
+Well, let's just do now. Surely.
+
+[Priyanshu Luhar] 01:17:36
+I guess we'll just stick with this. Hmm.
+
+[Priyanshu Luhar] 01:17:42
+Days started. Was on.
+
+[Priyanshu Luhar] 01:17:48
+20s. 0 to 2025.
+
+[Priyanshu Luhar] 01:17:55
+No. Okay. Time taken will be something.
+
+[Priyanshu Luhar] 01:18:00
+This one's this. Okay, I'm not going to spend much time on that.
+
+[Priyanshu Luhar] 01:18:08
+Let's close this. We have this. So launch intelligence focus you open new project files this new project.
+
+[Priyanshu Luhar] 01:18:28
+Create package and a class. Jello class.
+
+[Priyanshu Luhar] 01:18:36
+Hello World. Okay.
+
+[Priyanshu Luhar] 01:18:55
+At the main method using live templates.
+
+[Priyanshu Luhar] 01:19:10
+Okay. So we are at the step.
+
+[Priyanshu Luhar] 01:19:17
+So call the print line method using code Completion.
+
+[Priyanshu Luhar] 01:19:25
+Hotline.
+
+[Priyanshu Luhar] 01:19:34
+I guess it might be better to just get the GitHub repository set up as the initial Commit.
+
+[Priyanshu Luhar] 01:19:41
+With something as stupid as this system.
+
+[Priyanshu Luhar] 01:19:47
+Doc out dot.
+
+[Priyanshu Luhar] 01:19:56
+Oh.
+
+[Priyanshu Luhar] 01:20:01
+I guess we should run it. Running.
+
+[Priyanshu Luhar] 01:20:06
+My hello world process finished with code zero it works What I'll try to do now as well.
+
+[Priyanshu Luhar] 01:20:15
+We have something over here. Change to alpha.
+
+[Priyanshu Luhar] 01:20:21
+Message.
+
+[Priyanshu Luhar] 01:20:28
+Bare bone. Wait.
+
+[Priyanshu Luhar] 01:20:35
+Wait.
+
+[Priyanshu Luhar] 01:20:40
+Analysis. Oh.
+
+[Priyanshu Luhar] 01:20:46
+What do we usually use?
+
+[Priyanshu Luhar] 01:20:54
+Okay. I missed it. Oh, okay.
+
+[Priyanshu Luhar] 01:21:06
+Hold on now.
+
+[Priyanshu Luhar] 01:21:11
+Right. Got a warning. Nope. That's the old message.
+
+[Priyanshu Luhar] 01:21:17
+So comment and push. First commit.
+
+[Priyanshu Luhar] 01:21:24
+Oh, I committed it. I didn't push it. Okay.
+
+[Priyanshu Luhar] 01:21:32
+This is annoying. So two bar for this.
+
+[Priyanshu Luhar] 01:21:40
+Okay, there should be something to you before I'll stretch multiple windows.
+
+[Priyanshu Luhar] 01:21:46
+Okay. Terminal build runs. Good.
+
+[Priyanshu Luhar] 01:21:53
+Monster. Let's make another.
+
+[Priyanshu Luhar] 01:21:58
+Prior from last year. Let's name it main.
+
+[Priyanshu Luhar] 01:22:05
+And…
+
+[Priyanshu Luhar] 01:22:14
+Okay. We're going to commit the things onto the main now.
+
+[Priyanshu Luhar] 01:22:18
+Is there a way I can make a default? Nope. So.
+
+[Priyanshu Luhar] 01:22:23
+What we can do now. No, domain is just going to be this.
+
+[Priyanshu Luhar] 01:22:30
+Branch main. What I should do.
+
+[Priyanshu Luhar] 01:22:35
+Refresh this.
+
+[Priyanshu Luhar] 01:22:40
+What I want to do is…
+
+[Priyanshu Luhar] 01:22:47
+It's be Or to leave the master branch because I don't want that to mess up with uh Let's push it.
+
+[Priyanshu Luhar] 01:22:57
+Define remote. Name, origin, URL is over here
+
+[Priyanshu Luhar] 01:23:09
+Does it need a GitHub URL or an SSH URL? I think it will need an ACSH URL.
+
+[Priyanshu Luhar] 01:23:19
+We'll stick it. Okay.
+
+[Priyanshu Luhar] 01:23:23
+It goes. Go through.
+
+[Priyanshu Luhar] 01:23:29
+Okay. I'm just going to refresh. We should have something over here.
+
+[Priyanshu Luhar] 01:23:33
+Great. So we have our first commit over here.
+
+[Priyanshu Luhar] 01:23:39
+We'll add a readme file at the end.
+
+[Priyanshu Luhar] 01:23:44
+I don't care for a present moment. So we've got that figured out.
+
+[Priyanshu Luhar] 01:23:51
+So GitHub works. Now we'll start with this build and run the application run
+
+[Priyanshu Luhar] 01:24:14
+That's just to look at the hierarchy of the files i guess artifact configurator.
+
+[Priyanshu Luhar] 01:24:22
+Manifest.m. What is this?
+
+[Priyanshu Luhar] 01:24:27
+I don't think we use this.
+
+[Priyanshu Luhar] 01:24:33
+Project artifacts.
+
+[Priyanshu Luhar] 01:24:37
+Jr for modules with dependencies. Main class.
+
+[Priyanshu Luhar] 01:24:51
+Okay. Hello world of calm.example.hellorld.
+
+[Priyanshu Luhar] 01:24:57
+Okay. So what that means is that we are adding a JAR artifact and just bundling it together with the class.
+
+[Priyanshu Luhar] 01:25:07
+So let's go here. New.
+
+[Priyanshu Luhar] 01:25:20
+Okay.
+
+[Priyanshu Luhar] 01:25:27
+Tv navigator travel class module. Python package.
+
+[Priyanshu Luhar] 01:25:32
+Settings where are these? Clarity settings.
+
+[Priyanshu Luhar] 01:25:38
+Structure, I guess. Artifacts. We got a new order by J A R.
+
+[Priyanshu Luhar] 01:25:46
+Modules with dependencies Which module I'm checking about cost?
+
+[Priyanshu Luhar] 01:25:52
+Okay. Expect.
+
+[Priyanshu Luhar] 01:25:57
+Manifest. He says, hello, hello, include test, no.
+
+[Priyanshu Luhar] 01:26:02
+Okay, we've done this. No, they just press OK and OK.
+
+[Priyanshu Luhar] 01:26:09
+This one's, okay. Let me just.
+
+[Priyanshu Luhar] 01:26:12
+You just have that over here now.
+
+[Priyanshu Luhar] 01:26:18
+And what they were showing it out just okay So we still have that.
+
+[Priyanshu Luhar] 01:26:29
+So under example main class. Okay. Manifest. I guess this is this is This seems similar to a similar make file it pulls out.
+
+[Priyanshu Luhar] 01:26:42
+Particular classes in a particular order Yes, that's… how it works.
+
+[Priyanshu Luhar] 01:26:51
+So, well, since that's done. Move forward in the main menu, go to build slash build artifacts.
+
+[Priyanshu Luhar] 01:26:58
+Okay, why? Point the hello world chart and build select Select Build OK.
+
+[Priyanshu Luhar] 01:27:15
+I guess it just makes a new one.
+
+[Priyanshu Luhar] 01:27:26
+Wait, what? Manifest.
+
+[Priyanshu Luhar] 01:27:30
+Mean Miller. Main menu. Okay.
+
+[Priyanshu Luhar] 01:27:37
+Built. Artifact.
+
+[Priyanshu Luhar] 01:27:42
+Hello, John.
+
+[Priyanshu Luhar] 01:27:47
+Okay, we have the hello.jar. Do we go into hello.jar No, this is here.
+
+[Priyanshu Luhar] 01:27:58
+From the packaged application to find application Yes.
+
+[Priyanshu Luhar] 01:28:05
+Dedicated one configuration.
+
+[Priyanshu Luhar] 01:28:10
+Okay, so I guess since we have a JAR file that's linking things together.
+
+[Priyanshu Luhar] 01:28:20
+Intelligi allows you to create a dedicated run configuration.
+
+[Priyanshu Luhar] 01:28:27
+What is KAR Joa archive file format. Okay.
+
+[Priyanshu Luhar] 01:28:43
+Good. Okay. Makes sense.
+
+[Priyanshu Luhar] 01:29:13
+This was 26 or something.
+
+[Priyanshu Luhar] 01:29:18
+Okay.
+
+[Priyanshu Luhar] 01:29:24
+Let's just have this as now.
+
+[Priyanshu Luhar] 01:29:33
+Question. We'll have this copy.
+
+[Priyanshu Luhar] 01:29:38
+Blind me.
+
+[Priyanshu Luhar] 01:29:44
+Custom. Okay.
+
+[Priyanshu Luhar] 01:29:52
+It's just kind of about everything. General because Excel doesn't like this.
+
+[Priyanshu Luhar] 01:30:03
+Why the hell would it not work?
+
+[Priyanshu Luhar] 01:30:09
+Accounting date, long date. Okay.
+
+[Priyanshu Luhar] 01:30:14
+Long date works. I guess some sort of Time should also work.
+
+[Priyanshu Luhar] 01:30:25
+Okay. Okay. Finally.
+
+[Priyanshu Luhar] 01:30:29
+And this
+
+[Priyanshu Luhar] 01:30:39
+Why does it work on the now function?
+
+[Priyanshu Luhar] 01:30:46
+Okay, we'll edit this. Manually if we have to.
+
+[Priyanshu Luhar] 01:30:53
+But for now, we'll work with this. We'll figure it out later.
+
+[Priyanshu Luhar] 01:30:59
+Just don't need to touch these.
+
+[Priyanshu Luhar] 01:31:09
+Delete, delete. 02.
+
+[Priyanshu Luhar] 01:31:43
+Okay.
+
+[Priyanshu Luhar] 01:31:48
+So since we have that. You can go back over here.
+
+[Priyanshu Luhar] 01:31:53
+Most towns have already been passed. I don't think I'm going to make the two-hour thing.
+
+[Priyanshu Luhar] 01:31:58
+Maybe. Okay. So create run configuration for the packaged application to run Java application packaged in jar
+
+[Priyanshu Luhar] 01:32:09
+Oh, wait. Build this.
+
+[Priyanshu Luhar] 01:32:14
+Edit configuration so
+
+[Priyanshu Luhar] 01:32:25
+So let's try that.
+
+[Priyanshu Luhar] 01:32:31
+Let's just go back to this first.
+
+[Priyanshu Luhar] 01:32:37
+Command A. Actions.
+
+[Priyanshu Luhar] 01:32:47
+Okay, that's the issue. Actions change few years.
+
+[Priyanshu Luhar] 01:32:55
+Edit configurations.
+
+[Priyanshu Luhar] 01:33:06
+Configurations.
+
+[Priyanshu Luhar] 01:33:11
+Okay, and you can put patient jar.
+
+[Priyanshu Luhar] 01:33:29
+Hello, world, Jar.
+
+[Priyanshu Luhar] 01:33:35
+And name their file something else. We'll just name it hello to Hello Jar.
+
+[Priyanshu Luhar] 01:33:44
+Okay, that's how they do. Configurations you go
+
+[Priyanshu Luhar] 01:33:56
+Unnamed. Hello, jar.
+
+[Priyanshu Luhar] 01:34:15
+Okay, that already shows up. Why?
+
+[Priyanshu Luhar] 01:35:18
+What did that do?
+
+[Priyanshu Luhar] 01:35:44
+I think this part is going to mess up.
+
+[Priyanshu Luhar] 01:35:51
+Scroll down the dialog and before.
+
+[Priyanshu Luhar] 01:35:58
+Plus food artifact.
+
+[Priyanshu Luhar] 01:36:09
+You have more things.
+
+[Priyanshu Luhar] 01:36:13
+Configurations hello jar
+
+[Priyanshu Luhar] 01:36:30
+World.jar.jar.
+
+[Priyanshu Luhar] 01:36:48
+For launch. Good artifacts.
+
+[Priyanshu Luhar] 01:36:57
+Build artifact. Now, we'll need to look into this a little more.
+
+[Priyanshu Luhar] 01:37:27
+Okay.
+
+[Priyanshu Luhar] 01:37:32
+Execute the configuration.
+
+[Priyanshu Luhar] 01:37:40
+Does it still run? I assume there should be something. Okay, no.
+
+[Priyanshu Luhar] 01:37:44
+It still runs fine.
+
+[Priyanshu Luhar] 01:38:02
+Okay.
+
+[Priyanshu Luhar] 01:38:10
+General applications. Hmm.
+
+[Priyanshu Luhar] 01:38:15
+So we have something set up. It seems similar to that.
+
+[Priyanshu Luhar] 01:38:22
+What does help us bring all those create basic Hello.
+
+[Priyanshu Luhar] 01:38:32
+Cli.
+
+[Priyanshu Luhar] 01:38:40
+Completed 38. So I guess it took…
+
+[Priyanshu Luhar] 01:38:58
+This.
+
+[Priyanshu Luhar] 01:39:11
+Okay. We have something set up.
+
+[Priyanshu Luhar] 01:40:10
+Seems too complicated.
+
+[Priyanshu Luhar] 01:40:49
+There's a share.
+
+[Priyanshu Luhar] 01:40:54
+Share computer audio.
+
+[Priyanshu Luhar] 01:41:22
+Then first of all open your intelligent idea id and in here we are going to create a new project so just click new project here and in here we need to choose the first option which says Java.
+
+[Priyanshu Luhar] 01:41:39
+This is old. Ide, I guess. This is a year old.
+
+[Priyanshu Luhar] 01:41:44
+Maybe it's just different on those.
+
+[Priyanshu Luhar] 01:41:48
+Apps. For example app so it's going to create a blank java project for us.
+
+[Priyanshu Luhar] 01:41:56
+So this is our project and inside our project And then there are two bind for example okay then click ok And then inside the package we are going to create a new gui form so just right click new and search for GUI form which is
+
+[Priyanshu Luhar] 01:42:15
+This option. Okay, so just So click rate uh click new class inside the package For example, I'm going to just click on the source so i'm going to right click on the source folder And then I'm going to create a new package and I'm going to name my packages com.
+
+[Priyanshu Luhar] 01:42:22
+Src.
+
+[Priyanshu Luhar] 01:42:37
+Bind for example okay then click ok And then inside the package we are going to create a new gui form so just right click and search for GUI form which is this option. Okay, so just So click GUI form
+
+[Priyanshu Luhar] 01:42:54
+And then give the name of your form for example okay and then click and then click Okay, so it's going to create a new GUI form for us so there are two files created here app dot form and app
+
+[Priyanshu Luhar] 01:43:11
+Dot Java, right? So in the form we are going to design our gui and in the app.java we are going to write some code add some functionality to it.
+
+[Priyanshu Luhar] 01:43:24
+Now by default this form contains one J panel.
+
+[Priyanshu Luhar] 01:43:25
+Okay.
+
+[Priyanshu Luhar] 01:43:31
+Hmm.
+
+[Priyanshu Luhar] 01:43:32
+And in here you can see the layout of
+
+[Priyanshu Luhar] 01:43:37
+That seems much better, I guess. So we're going to add some stuff out.
+
+[Priyanshu Luhar] 01:43:48
+Need this and this.
+
+[Priyanshu Luhar] 01:43:58
+No.
+
+[Priyanshu Luhar] 01:44:06
+New package.
+
+[Priyanshu Luhar] 01:44:11
+I guess it might be better to just have a look at this video first and then start working on it.
+
+[Priyanshu Luhar] 01:44:16
+For this uh j panel is by default grid layout manager.
+
+[Priyanshu Luhar] 01:44:23
+So…
+
+[Priyanshu Luhar] 01:44:23
+I also looked at this.
+
+[Priyanshu Luhar] 01:44:27
+Share. Copy.
+
+[Priyanshu Luhar] 01:44:46
+I'm just going to copy this stuff. Okay.
+
+[Priyanshu Luhar] 01:45:05
+That also doesn't work. It was 38 at the time.
+
+[Priyanshu Luhar] 01:45:13
+So…
+
+[Priyanshu Luhar] 01:45:19
+With this.
+
+[Priyanshu Luhar] 01:45:24
+Okay.
+
+[Priyanshu Luhar] 01:45:27
+In order to you know uh pick and place any component from the palette you need to set first of all your layout using this layout manager so there are some layouts you can see here defined So for now I will leave the default layout which is grid layout manager
+
+[Priyanshu Luhar] 01:45:50
+Here okay and what i'm going to do is I'm going to add a J button here so i'm going to just drag and drop a J button.
+
+[Priyanshu Luhar] 01:45:58
+And it's going to just, you know. Be placed inside your J panel.
+
+[Priyanshu Luhar] 01:46:05
+Now let's give the name to our j panel so by default you can see field name and the j panel name is panel one for example so we can change the name of our panel as for example panel main okay
+
+[Priyanshu Luhar] 01:46:25
+And the name to our button will be for example button MSG for message.
+
+[Priyanshu Luhar] 01:46:34
+Okay so you can the names which will be like a id to your button okay and when you go to the app.java class here you can see whatever name you have given here they will be uh you know created in your app.java class so there will be
+
+[Priyanshu Luhar] 01:46:59
+Okay, let's try this. G button message.
+
+[Priyanshu Luhar] 01:47:07
+Okay.
+
+[Priyanshu Luhar] 01:47:17
+The button is going to be the button It's not the message button. This is just going to be the
+
+[Priyanshu Luhar] 01:47:28
+Button. We don't need this right now.
+
+[Priyanshu Luhar] 01:47:38
+What will still keep it? Just in case.
+
+[Priyanshu Luhar] 01:47:44
+Private.
+
+[Priyanshu Luhar] 01:47:48
+What's going on? Why is it not auto typing?
+
+[Priyanshu Luhar] 01:48:04
+J panel.
+
+[Priyanshu Luhar] 01:48:09
+Oh. I mean, it seems about right.
+
+[Priyanshu Luhar] 01:48:14
+Some private variables created whenever you define the this name here.
+
+[Priyanshu Luhar] 01:48:21
+Okay, so this is a simple panel inside which
+
+[Priyanshu Luhar] 01:48:34
+This is new file. Package resource bundles.
+
+[Priyanshu Luhar] 01:48:40
+Qi forms. Hello.
+
+[Priyanshu Luhar] 01:48:53
+We don't pass. Okay.
+
+[Priyanshu Luhar] 01:49:09
+Like this. Over here.
+
+[Priyanshu Luhar] 01:49:14
+Find it to class for g panel grid layout, card layout volume.
+
+[Priyanshu Luhar] 01:49:23
+Let's just work with the grid. At the moment we want One button.
+
+[Priyanshu Luhar] 01:49:32
+Oh, my God. I just want.
+
+[Priyanshu Luhar] 01:49:45
+No. I don't want to do that.
+
+[Priyanshu Luhar] 01:49:51
+Delete. Button.
+
+[Priyanshu Luhar] 01:50:00
+This is going to be. Hello.
+
+[Priyanshu Luhar] 01:50:06
+Something like this, right?
+
+[Priyanshu Luhar] 01:50:12
+Act. Button.
+
+[Priyanshu Luhar] 01:50:19
+I should have added this. Probably Gmail does this.
+
+[Priyanshu Luhar] 01:50:23
+Yeah. Final one.
+
+[Priyanshu Luhar] 01:50:29
+Main. Okay.
+
+[Priyanshu Luhar] 01:50:34
+We got that.
+
+[Priyanshu Luhar] 01:50:37
+We have a button so for example we want to show some message when we click this button so how do we do it First of all, I want to explain something about this palette so from this palette you can see there are so many components here like
+
+[Priyanshu Luhar] 01:50:55
+J panel buttons jtex fields, text pane combo box list and everything else which it supports so whatever component you want from here you just need to drag and drop here and then you just need to give a listener to
+
+[Priyanshu Luhar] 01:51:14
+This is very nice video.
+
+[Priyanshu Luhar] 01:51:14
+This component. So for example, I want to press this button and I want to show some message So I will just right click on this button And I'm going to add a listener to it. So just right click on the button
+
+[Priyanshu Luhar] 01:51:29
+And then you see here it says create listener so just click this create listener And there are, you know.
+
+[Priyanshu Luhar] 01:51:41
+I could let this run on the top panel.
+
+[Priyanshu Luhar] 01:51:53
+Okay. Let's take it out.
+
+[Priyanshu Luhar] 01:52:02
+Of listeners Which button can listen to so for example default listener is action event so this is just like clicking and I want to show some message So I will just right click on this button And I'm going to add a listener to it. So just right click on the button
+
+[Priyanshu Luhar] 01:52:12
+Okay.
+
+[Priyanshu Luhar] 01:52:23
+And then you see here it says create listener so just click this create listener And there are you know list of listeners which buttons can listen to so for example default listener is action event so this is just like clicking the button
+
+[Priyanshu Luhar] 01:52:43
+And then component listener or focus listener or input method listener item listener key listener so There are few listeners for the button so that it can lessons for some event so we are going to choose the default listener which is action listener so just click on this first option
+
+[Priyanshu Luhar] 01:53:06
+It's going to automatically create a method for you you can see in the background so just choose this action performed and then click OK here.
+
+[Priyanshu Luhar] 01:53:17
+So this is going to create this method by default for you.
+
+[Priyanshu Luhar] 01:53:23
+Okay, so this is your action list now method which is called by your button which is this one right And by default, it overrides a function which is action performed.
+
+[Priyanshu Luhar] 01:53:36
+And inside this action perform you can write some code. So for example, we want to show some message so there is a component in java swing which is called j option pin it's like a message box which opens and shows some message so j option pane
+
+[Priyanshu Luhar] 01:53:54
+Dot show message dialog so just call a method called show message dialog which takes two argument which first is null which is the context here And second is the message. For example, we want to just show the message hello world so just
+
+[Priyanshu Luhar] 01:54:12
+Right. Hello. World here and then save your code now at this point your code will not run because you don't have any main method in your class so let's create a main method in our class so just go below this
+
+[Priyanshu Luhar] 01:54:32
+And just write public static void main or you can just write psvm for public static void main and then click or press a tab here which is going to create this method for you and inside your main method what we are going to do is we are going to create a J frame. So just write j
+
+[Priyanshu Luhar] 01:54:49
+I guess we're going to call the Again.
+
+[Priyanshu Luhar] 01:54:55
+Frame and then name your frame for example frame itself is equal to new jframe and it takes one argument which is the name of your app for example app itself okay we take our frame object and call a method called set
+
+[Priyanshu Luhar] 01:55:14
+Content being here and we can set the new content pane here so we want to call this you know object which is j panel in here so we can just call our class which is app and then we can call this
+
+[Priyanshu Luhar] 01:55:31
+Object which is panel main now there is few more things remaining here one is frame dot set closing method so just write set default close operation and and then… we can call few more things remaining here.
+
+[Priyanshu Luhar] 01:55:45
+Okay, I think we missed something. I think this much will happen.
+
+[Priyanshu Luhar] 01:55:53
+I don't mean okay that's been called.
+
+[Priyanshu Luhar] 01:56:06
+One is frame dot set losing method. So just write set default close operation and in here just write jframe dot exit on close okay And then once again take your frame object and then call a method field called back
+
+[Priyanshu Luhar] 01:56:29
+So just call method call back and call back At last just call your frame and then just frame we are going to set it visible so set visible is equal to true Okay, so this is our main method and in which we have defined the
+
+[Priyanshu Luhar] 01:56:47
+Jframe and we have called this panel inside the frame.
+
+[Priyanshu Luhar] 01:56:52
+Right. Now save your code. And we are going to run it so just go here and then click this run button from here And it's going to ask you for the class which we want to run which is app class
+
+[Priyanshu Luhar] 01:57:07
+And then it's going to compile this class and then it's going to run it.
+
+[Priyanshu Luhar] 01:57:08
+Okay.
+
+[Priyanshu Luhar] 01:57:12
+Okay, so let's see it runs. So you can see there is a small you know here frame appeared here and it's like only button inside the frame So you can just make it bigger for now.
+
+[Priyanshu Luhar] 01:57:27
+And when we click this button it's going to show some message. So it shows hello world.
+
+[Priyanshu Luhar] 01:57:32
+Once again, hello world. Okay, so this is the very basic program which you can create in your intelligent idea id which is a GUI swing application here So I hope you have enjoyed this video please recommend subscribe and bye for now.
+
+[Priyanshu Luhar] 01:57:52
+Okay, this was a great video. Basically made my entire project for me.
+
+[Priyanshu Luhar] 01:58:01
+But since I've already learned this much. I'm going to try adding a couple of things of my own.
+
+[Priyanshu Luhar] 01:58:09
+This was great.
+
+[Priyanshu Luhar] 01:58:15
+What I want to know is How long did it take?
+
+[Priyanshu Luhar] 01:58:20
+That did not take that long.
+
+[Priyanshu Luhar] 01:58:26
+Everything.
+
+[Priyanshu Luhar] 01:58:33
+Thank you. Isn't that?
+
+[Priyanshu Luhar] 01:58:38
+Took. 158, so… 8 plus 6, 14 minutes.
+
+[Priyanshu Luhar] 01:58:54
+So this is great. Let's look into how to get things.
+
+[Priyanshu Luhar] 01:58:59
+Working. Oh, two.
+
+[Priyanshu Luhar] 01:59:06
+Make what I wanted to do is… Set showers.
+
+[Priyanshu Luhar] 01:59:13
+When… panel resolution.
+
+[Priyanshu Luhar] 01:59:19
+I wanted to… set display method.
+
+[Priyanshu Luhar] 01:59:29
+Frame that set size, okay.
+
+[Priyanshu Luhar] 01:59:46
+Okay. If I set the frame size.
+
+[Priyanshu Luhar] 01:59:50
+Set size. Technically work.
+
+[Priyanshu Luhar] 01:59:55
+Was that when we initialize it so i guess
+
+[Priyanshu Luhar] 02:00:07
+Size. We wanted, let's say 400 by… 800.
+
+[Priyanshu Luhar] 02:00:20
+And let's see how it runs.
+
+[Priyanshu Luhar] 02:00:27
+Nope. Well, it did. Well, the first place I want us to be.
+
+[Priyanshu Luhar] 02:00:36
+I'm afraid. Close at visible set display
+
+[Priyanshu Luhar] 02:00:49
+Display mode.
+
+[Priyanshu Luhar] 02:01:02
+Okay. Should be something else.
+
+[Priyanshu Luhar] 02:01:06
+But I don't want to start the entire for that.
+
+[Priyanshu Luhar] 02:01:13
+So they get the device graphics. Okay.
+
+[Priyanshu Luhar] 02:01:21
+Hmm.
+
+[Priyanshu Luhar] 02:01:41
+No.
+
+[Priyanshu Luhar] 02:02:00
+Have to do that.
+
+[Priyanshu Luhar] 02:02:14
+That forum.
+
+[Priyanshu Luhar] 02:02:24
+Okay.
+
+[Priyanshu Luhar] 02:02:31
+Well, I think I should…
+
+[Priyanshu Luhar] 02:02:35
+Have something. Changes to file.
+
+[Priyanshu Luhar] 02:02:49
+Running, running.
+
+[Priyanshu Luhar] 02:02:56
+Wait and push.
+
+[Priyanshu Luhar] 02:03:13
+Separator issues. Let's commit as it.
+
+[Priyanshu Luhar] 02:03:21
+Comment and push.
+
+[Priyanshu Luhar] 02:03:35
+Read comments.
+
+[Priyanshu Luhar] 02:03:40
+Okay, we have something running. We're here.
+
+[Priyanshu Luhar] 02:03:45
+So since we have this So central, horizontal line.
+
+[Priyanshu Luhar] 02:04:07
+Icon 2.
+
+[Priyanshu Luhar] 02:04:12
+Button. Font career no we wanted to use font.
+
+[Priyanshu Luhar] 02:04:26
+I see something big, right? Okay.
+
+[Priyanshu Luhar] 02:04:31
+Let's try this now. One.
+
+[Priyanshu Luhar] 02:04:38
+Okay we have the font a little bit. So we made this.
+
+[Priyanshu Luhar] 02:04:45
+A lot bigger than I want. I want the hello to be a lot bigger too so We'll make this a phone style application so what we're going to have to do is…
+
+[Priyanshu Luhar] 02:05:04
+We're going to have to do something like this.
+
+[Priyanshu Luhar] 02:05:09
+So since it's this let's set the width. To be those small devices at 1080p let's set the width to be 500 and the height.
+
+[Priyanshu Luhar] 02:05:24
+To be 800. She framed that exit on close.
+
+[Priyanshu Luhar] 02:05:31
+And I don't want the button to We really think so.
+
+[Priyanshu Luhar] 02:05:37
+We're going to do… is.
+
+[Priyanshu Luhar] 02:05:44
+High comfortable alignment. Center, center.
+
+[Priyanshu Luhar] 02:05:59
+Horizontal alignment. Yeah, I don't want that to be really big.
+
+[Priyanshu Luhar] 02:06:09
+Plan properties, border. Just don't create.
+
+[Priyanshu Luhar] 02:06:13
+J panel.
+
+[Priyanshu Luhar] 02:06:21
+Brain. Right.
+
+[Priyanshu Luhar] 02:06:25
+That content pane. I could also have another something like this.
+
+[Priyanshu Luhar] 02:06:32
+So let's make another panel. New.
+
+[Priyanshu Luhar] 02:06:40
+Command C, command B.
+
+[Priyanshu Luhar] 02:06:47
+Copy. Paste.
+
+[Priyanshu Luhar] 02:06:51
+Paste. Why is it not working?
+
+[Priyanshu Luhar] 02:06:56
+Jump selection paste platinum I want a new panel.
+
+[Priyanshu Luhar] 02:07:11
+Yeah, this will go for now.
+
+[Priyanshu Luhar] 02:07:16
+Inshallah. Let's make a new panel, right?
+
+[Priyanshu Luhar] 02:07:31
+J panel.
+
+[Priyanshu Luhar] 02:07:36
+Msg.
+
+[Priyanshu Luhar] 02:07:44
+Msg panel and
+
+[Priyanshu Luhar] 02:07:54
+Button Okay.
+
+[Priyanshu Luhar] 02:07:59
+Button.
+
+[Priyanshu Luhar] 02:08:05
+J dot
+
+[Priyanshu Luhar] 02:08:09
+I think I'm going to be trying to do this.
+
+[Priyanshu Luhar] 02:08:17
+That default. My friend, that's it.
+
+[Priyanshu Luhar] 02:08:23
+What's calling that.
+
+[Priyanshu Luhar] 02:08:33
+Listener. Call another function.
+
+[Priyanshu Luhar] 02:08:41
+Wanted to take jframe.
+
+[Priyanshu Luhar] 02:08:49
+What if I make JFrame public?
+
+[Priyanshu Luhar] 02:08:56
+J-frame, my frame.
+
+[Priyanshu Luhar] 02:09:01
+Let's try this. Private frame.
+
+[Priyanshu Luhar] 02:09:07
+Five.
+
+[Priyanshu Luhar] 02:09:12
+Can I raise this? Okay, now it's a global variable.
+
+[Priyanshu Luhar] 02:09:18
+We'll try. My friend.
+
+[Priyanshu Luhar] 02:09:24
+Set content pain.
+
+[Priyanshu Luhar] 02:09:29
+Oh. Well, yes, I don't have to make everything. Okay, no, that's not good.
+
+[Priyanshu Luhar] 02:09:38
+Okay. That's not good.
+
+[Priyanshu Luhar] 02:09:53
+Okay, this is this.
+
+[Priyanshu Luhar] 02:10:09
+Okay, option.
+
+[Priyanshu Luhar] 02:10:21
+First, I'll try to figure the
+
+[Priyanshu Luhar] 02:10:25
+The first issue out which was to try and get decides to be correct.
+
+[Priyanshu Luhar] 02:10:35
+This is Chrome versus Safari.
+
+[Priyanshu Luhar] 02:10:50
+Okay. Graphics device that graphics device.
+
+[Priyanshu Luhar] 02:10:56
+Okay, set content thing. On clothes.
+
+[Priyanshu Luhar] 02:11:25
+I guess this is…
+
+[Priyanshu Luhar] 02:11:36
+Nice.
+
+[Priyanshu Luhar] 02:11:59
+Play mode.
+
+[Priyanshu Luhar] 02:12:05
+Me.
+
+[Priyanshu Luhar] 02:12:13
+100.
+
+[Priyanshu Luhar] 02:12:36
+Tell you age. I don't want those.
+
+[Priyanshu Luhar] 02:12:40
+Bit depth okay and the last one is refresh rate okay Let's try this.
+
+[Priyanshu Luhar] 02:12:57
+Invalid display mode.
+
+[Priyanshu Luhar] 02:13:02
+Where?
+
+[Priyanshu Luhar] 02:13:09
+I guess I will have to do this.
+
+[Priyanshu Luhar] 02:13:22
+I guess it didn't find a window.
+
+[Priyanshu Luhar] 02:13:28
+Okay, this is not good.
+
+[Priyanshu Luhar] 02:13:35
+Closed it.
+
+[Priyanshu Luhar] 02:13:43
+Display mode, new display mode. Right.
+
+[Priyanshu Luhar] 02:13:51
+Right. Why did it not?
+
+[Priyanshu Luhar] 02:14:03
+Okay.
+
+[Priyanshu Luhar] 02:14:09
+Oh, there's one comment, inshallah.
+
+[Priyanshu Luhar] 02:14:38
+Try that.
+
+[Priyanshu Luhar] 02:14:43
+Okay.
+
+[Priyanshu Luhar] 02:14:48
+Let me try running this. What happens. It still creates a small window.
+
+[Priyanshu Luhar] 02:14:54
+Okay. So we'll have to deal with that.
+
+[Priyanshu Luhar] 02:15:01
+There's a way to get these things true. Maybe I'll need to look at another lease.
+
+[Priyanshu Luhar] 02:15:31
+This is started at it. Three, four minutes ago so
+
+[Priyanshu Luhar] 02:15:45
+And now it's 215. I'm going to say two.
+
+[Priyanshu Luhar] 02:15:51
+09. Six minutes input.
+
+[Priyanshu Luhar] 02:15:57
+Zero. Thanks.
+
+[Priyanshu Luhar] 02:16:05
+These are all links. Set up log.
+
+[Priyanshu Luhar] 02:16:11
+Till now, I don't have to have anything set up.
+
+[Priyanshu Luhar] 02:16:18
+What were we doing on our time? We have an application ready.
+
+[Priyanshu Luhar] 02:16:24
+I don't want this, but we'll work on that.
+
+[Priyanshu Luhar] 02:17:09
+Oh, okay. I can work with that. Because I already have a main panel So we can do this.
+
+[Priyanshu Luhar] 02:17:18
+Hello dot panel. Main.
+
+[Priyanshu Luhar] 02:17:32
+Bird size. You know you mentioned Five.
+
+[Priyanshu Luhar] 02:17:41
+W h Okay.
+
+[Priyanshu Luhar] 02:18:01
+Okay, now it shows. Now I want this button size to be ridiculously big.
+
+[Priyanshu Luhar] 02:18:12
+I guess I could do the same thing hello dot.
+
+[Priyanshu Luhar] 02:18:18
+Act button dot. That.
+
+[Priyanshu Luhar] 02:18:23
+Preferred size. Dimension.
+
+[Priyanshu Luhar] 02:18:29
+We want it to be. A little bit smaller than that.
+
+[Priyanshu Luhar] 02:18:36
+The number would be 400. So W times zero point.
+
+[Priyanshu Luhar] 02:18:42
+8 H times… zero point.
+
+[Priyanshu Luhar] 02:18:47
+Four. Let's try running this.
+
+[Priyanshu Luhar] 02:18:52
+Hmm. Incompatible types.
+
+[Priyanshu Luhar] 02:19:00
+Let's just manually type it out for now. I want the word to be… 50 this to be… 200.
+
+[Priyanshu Luhar] 02:19:13
+It's funny. Okay, there's a button.
+
+[Priyanshu Luhar] 02:19:19
+Button button okay button goes back to the page.
+
+[Priyanshu Luhar] 02:19:24
+Message show dialog box.
+
+[Priyanshu Luhar] 02:19:48
+Yeah, no.
+
+[Priyanshu Luhar] 02:19:58
+My name. G.
+
+[Priyanshu Luhar] 02:20:28
+We want it to be. 300 by 300.
+
+[Priyanshu Luhar] 02:21:24
+Hmm. Okay, so this.
+
+[Priyanshu Luhar] 02:21:45
+Preferred trash home message dialog.
+
+[Priyanshu Luhar] 02:22:03
+That message.
+
+[Priyanshu Luhar] 02:22:31
+Variable minus issues.
+
+[Priyanshu Luhar] 02:23:18
+Working.
+
+[Priyanshu Luhar] 02:23:56
+This the world. Okay.
+
+[Priyanshu Luhar] 02:24:02
+Well, it just goes back here. Okay. I want something else too. I want the background to be black and the foreground to be white.
+
+[Priyanshu Luhar] 02:24:15
+How to set foreground. Let's use this.
+
+[Priyanshu Luhar] 02:24:22
+It's just been around one sec.
+
+[Priyanshu Luhar] 02:24:53
+24th i guess six plus four. 11 minutes.
+
+[Priyanshu Luhar] 02:25:26
+Let's commenters.
+
+[Priyanshu Luhar] 02:25:56
+Okay, there have been multiple comments to us.
+
+[Priyanshu Luhar] 02:26:12
+Okay.
+
+[Priyanshu Luhar] 02:26:33
+No. What do I want?
+
+[Priyanshu Luhar] 02:26:41
+I guess everything works in here. So what I'm just going to do is that change some things add a
+
+[Priyanshu Luhar] 02:26:53
+J button, J text field. J text area
+
+[Priyanshu Luhar] 02:27:06
+Jpain. J panel.
+
+[Priyanshu Luhar] 02:27:15
+Add space, v space. Horizontal space. No, we already don't need this.
+
+[Priyanshu Luhar] 02:27:20
+To enable to text field
+
+[Priyanshu Luhar] 02:27:31
+Okay, command Z.
+
+[Priyanshu Luhar] 02:28:44
+Exterior mining.
+
+[Priyanshu Luhar] 02:28:51
+I want this.
+
+[Priyanshu Luhar] 02:28:57
+We're going to use a font.
+
+[Priyanshu Luhar] 02:29:05
+Regular. The size is going to be somewhere. 24. Okay.
+
+[Priyanshu Luhar] 02:29:12
+Rose text. So far.
+
+[Priyanshu Luhar] 02:29:26
+Okay. Foreground.
+
+[Priyanshu Luhar] 02:29:32
+Focus accelerator columns background
+
+[Priyanshu Luhar] 02:29:40
+Central.
+
+[Priyanshu Luhar] 02:30:19
+See how it goes. It has space.
+
+[Priyanshu Luhar] 02:30:31
+On this.
+
+[Priyanshu Luhar] 02:31:24
+No, I guess it should have it correctly. Yep, it shows that.
+
+[Priyanshu Luhar] 02:31:31
+Just from the background. To be an image or something like that.
+
+[Priyanshu Luhar] 02:31:38
+Because… We have some time, so… Why not?
+
+[Priyanshu Luhar] 02:31:50
+Who have… image as a Okay.
+
+[Priyanshu Luhar] 02:31:58
+Java.
+
+[Priyanshu Luhar] 02:32:03
+I'm telling Jay.
+
+[Priyanshu Luhar] 02:32:33
+Okay, now we'll have to go to the bitmap way no then we're not going to implement it.
+
+[Priyanshu Luhar] 02:32:38
+We are not that. Interested.
+
+[Priyanshu Luhar] 02:33:02
+Okay.
+
+[Priyanshu Luhar] 02:33:06
+My name. Mining dot set message.
+
+[Priyanshu Luhar] 02:33:12
+Okay, yeah.
+
+[Priyanshu Luhar] 02:33:41
+Another to be zero. Shingle.
+
+[Priyanshu Luhar] 02:34:34
+Did it not work?
+
+[Priyanshu Luhar] 02:34:42
+Okay, we'll change that.
+
+[Priyanshu Luhar] 02:34:53
+Oh.
+
+[Priyanshu Luhar] 02:34:58
+They should have exited. And we did something.
+
+[Priyanshu Luhar] 02:35:09
+I guess I should… Paying more attention to it.
+
+[Priyanshu Luhar] 02:35:15
+Just a few more things.
+
+[Priyanshu Luhar] 02:35:31
+The septifocals operation. Okay, yeah.
+
+[Priyanshu Luhar] 02:35:55
+Visible all your… object and then call a method field called pack so just call method call back and call back At last, just call your frame and then we are going to set it visible so set visible is equal to true
+
+[Priyanshu Luhar] 02:36:14
+Okay, so this is our main method and in which we have defined the jframe and we have called this panel inside the frame, right?
+
+[Priyanshu Luhar] 02:36:24
+Now save your code. And we are going to run it so just go here and then click this run button from here and it's going to ask you for the class which we want to run which is app class
+
+[Priyanshu Luhar] 02:36:39
+And then it's going to compile this class And then it's going to run it.
+
+[Priyanshu Luhar] 02:36:44
+Okay, so let's see it runs so you can see there is a small you know here frame appeared here and here it's like only button inside the frame so you can just make it bigger for now. And when we click this button it's going to show some message.
+
+[Priyanshu Luhar] 02:37:03
+So it shows hello world. Once again, hello world.
+
+[Priyanshu Luhar] 02:37:03
+Or will…
+
+[Priyanshu Luhar] 02:37:07
+Okay, so this is the very basic program which you can create in your intelligent idea id which is a GUI swing application here So I hope you have enjoyed this video please welcome and subscribe and bye for now.
+
+[Priyanshu Luhar] 02:37:19
+Okay.
+
+[Priyanshu Luhar] 02:37:27
+Project one, her project one app one. Okay.
+
+[Priyanshu Luhar] 02:37:33
+I'm not going to edit the message out so we're good.
+
+[Priyanshu Luhar] 02:37:38
+I have my name down.
+
+[Priyanshu Luhar] 02:38:24
+0.5, okay.
+
+[Priyanshu Luhar] 02:39:11
+That's it.
+
+[Priyanshu Luhar] 02:39:20
+Okay.
+
+[Priyanshu Luhar] 02:39:58
+Okay, yeah, this is what we want. Black.
+
+[Priyanshu Luhar] 02:40:05
+We'll have a name in here. Make that white.
+
+[Priyanshu Luhar] 02:40:11
+The only thing white in here will be the name. I guess we can do this.
+
+[Priyanshu Luhar] 02:40:18
+Yes. It should already have the wild.
+
+[Priyanshu Luhar] 02:40:21
+Okay, white line. Going down.
+
+[Priyanshu Luhar] 02:40:33
+Hello, Doc. Uh at dot button.
+
+[Priyanshu Luhar] 02:40:39
+Set background. Color dot
+
+[Priyanshu Luhar] 02:40:50
+Gray.
+
+[Priyanshu Luhar] 02:40:58
+Button offset.
+
+[Priyanshu Luhar] 02:41:08
+One row dot This is great.
+
+[Priyanshu Luhar] 02:41:15
+Let's try this. Magenta works.
+
+[Priyanshu Luhar] 02:41:23
+Hmm. Why did it not change background? Buttons at background.
+
+[Priyanshu Luhar] 02:41:30
+Great.
+
+[Priyanshu Luhar] 02:41:44
+Doesn't work. Why not?
+
+[Priyanshu Luhar] 02:42:13
+Okay, that's fine.
+
+[Priyanshu Luhar] 02:42:17
+Can't make something work. That's fine for now.
+
+[Priyanshu Luhar] 02:42:37
+Okay, gray shows hello world. Great shoes. I don't want to go back. Okay.
+
+[Priyanshu Luhar] 02:42:52
+So let's commit to changes.
+
+[Priyanshu Luhar] 02:43:01
+Push. We go to the warnings.
+
+[Priyanshu Luhar] 02:43:20
+Yes, since this is a readme, I should read. Include a screenshot of an application.
+
+[Priyanshu Luhar] 02:44:29
+Okay. Capture. This goes over here.
+
+[Priyanshu Luhar] 02:44:39
+And then… and click here bunch of click here.
+
+[Priyanshu Luhar] 02:44:42
+I could also do this.
+
+[Priyanshu Luhar] 02:44:49
+Over here.
+
+[Priyanshu Luhar] 02:45:05
+Changes. Changes.
+
+[Priyanshu Luhar] 02:45:20
+This is horrible.
+
+[Priyanshu Luhar] 02:45:26
+So one.
+
+[Priyanshu Luhar] 02:45:31
+Two.
+
+[Priyanshu Luhar] 02:45:43
+I did not want to show one too.
+
+[Priyanshu Luhar] 02:45:49
+I guess that's fine.
+
+[Priyanshu Luhar] 02:46:03
+Oh, no, it did work one and two okay This is great. We're done.
+
+[Priyanshu Luhar] 02:46:12
+Please would have one. 11 minutes to go.
+
+[Priyanshu Luhar] 02:46:20
+So… This was when my first app was completed.
+
+[Priyanshu Luhar] 02:46:28
+I also looked at something to add colors.
+
+[Priyanshu Luhar] 02:46:42
+Something where I looked up for colors. No, I don't think I need anything for colors. I just chose set color.
+
+[Priyanshu Luhar] 02:46:51
+Okay.
+
+[Priyanshu Luhar] 02:46:56
+Long day percentage traction, just text.
+
+[Priyanshu Luhar] 02:47:02
+Custom. Links.
+
+[Priyanshu Luhar] 02:47:11
+Care about any of them. I'm going to increase the size.
+
+[Priyanshu Luhar] 02:47:22
+What column width. Okay, you don't need this.
+
+[Priyanshu Luhar] 02:47:32
+That's done. Set a plug.
+
+[Priyanshu Luhar] 02:48:31
+Good. Okay. So we're done with project one.
+
+[Priyanshu Luhar] 02:48:37
+That is a benchmark that we're going to start on the project too. I guess project two should take some time But now that I know how to make the gy and stuff.
+
+[Priyanshu Luhar] 02:48:53
+I guess the… only part left for me to work on is figuring out how am I going to get string from files.
+
+[Priyanshu Luhar] 02:49:05
+This is going to be… So it's going to be tough.
+
+[Priyanshu Luhar] 02:49:11
+Okay, well, I'm going to pause the meeting. For now.
+
+[Priyanshu Luhar] 02:49:18
+Let's stop it over here. Amount of time we worked.
+
+[Priyanshu Luhar] 02:49:23
+I'm going to…
+
+[Priyanshu Luhar] 02:49:28
+I'm going to pause recording. And we'll convene in some time.
+
+[Priyanshu Luhar] 02:49:46
+We have paused recording on both sides. Okay.
+
+[alienware] 02:55:25
+One side note, we have our beef and beanberry.
+
